@@ -1,5 +1,5 @@
 # Personal_Virtual_Assistant
-* This is a personal virtual assistant named inertia works on text-to-speech basis. Its maximum features works properly in offline mode.
+* This is a personal virtual assistant named INERTIA works on text-to-speech basis. Its maximum features works properly in offline mode.
 * For the speech feature, I have used eSpeak voice synthesizer.
 * If you want to listen to the voice then first you have to download and install the eSpeak.exe file respectively according to your system.
 * ( https://espeak.sourceforge.net/download.html. )
