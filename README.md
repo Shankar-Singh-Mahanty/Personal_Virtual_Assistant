@@ -10,6 +10,7 @@
 
 * What I had did Inside the code
 -> that is if anyone wants to contribute or add some more features then he/she must follow the below instructions.
+* Refer the code for better understanding.
 
 
 * To listen to the speech, these 4 lines must be included in the code:
